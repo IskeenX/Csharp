@@ -1,0 +1,16 @@
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.exe.config
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.exe
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.pdb
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.AssemblyReference.cache
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.SuggestedBindingRedirects.cache
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.exe
+D:\University\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.pdb
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.exe.config
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.exe
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\bin\Debug\Birds.pdb
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.AssemblyReference.cache
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.SuggestedBindingRedirects.cache
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.exe
+D:\University\Semester_1\SoftwareDD1\Projects\Project2\Birds\Birds\obj\Debug\Birds.pdb

@@ -1,0 +1,45 @@
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Number of birds: ");
+        int numBirds = scanner.nextInt();
+        System.out.print("Input dimension: ");
+        int demension = scanner.nextInt();
+
+        String[] cord = new String[numBirds];
+        for (int h = 0; h < numBirds; h++) {
+            System.out.print("Input coordinates X, Y and radius of bird " + h + 1 + ": ");
+            cord[h] = scanner.next();
+        }
+
+        String[][] arr = new String[demension][demension];
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[0].length; j++) {
+                arr[i][j] = "0";
+            }
+        }
+
+        for (int k = 0; k < numBirds; k++) {
+            String[] cord1 = cord[k].split(",");
+            for (int i = 0; i < arr.length; i++) {
+                for (int j = 0; j < arr[0].length; j++) {
+                    if (i >= Integer.parseInt(cord1[0]) - 1 - Integer.parseInt(cord1[2]) && i <= Integer.parseInt(cord1[0]) - 1 + Integer.parseInt(cord1[2]) &&
+                            j >= Integer.parseInt(cord1[1]) - 1 - Integer.parseInt(cord1[2]) && j <= Integer.parseInt(cord1[1]) - 1 + Integer.parseInt(cord1[2])) {
+                        if (arr[i][j].equals("0")) {
+                            arr[i][j] = String.valueOf(k + 1);
+                        } else {
+                            arr[i][j] += String.valueOf(k + 1);
+                        }
+                    }
+                }
+            }
+        }
+
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[0].length; j++) {
+                System.out.print("{" + arr[i][j] + "}");
+            }
+            System.out.println();
+        }
+    }
+}
