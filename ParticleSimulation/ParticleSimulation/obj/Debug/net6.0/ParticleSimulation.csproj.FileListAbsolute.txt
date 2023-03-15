@@ -1,0 +1,15 @@
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\bin\Debug\net6.0\ParticleSimulation.exe
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\bin\Debug\net6.0\ParticleSimulation.deps.json
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\bin\Debug\net6.0\ParticleSimulation.runtimeconfig.json
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\bin\Debug\net6.0\ParticleSimulation.dll
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\bin\Debug\net6.0\ParticleSimulation.pdb
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.csproj.AssemblyReference.cache
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.AssemblyInfoInputs.cache
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.AssemblyInfo.cs
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.csproj.CoreCompileInputs.cache
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.dll
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\refint\ParticleSimulation.dll
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.pdb
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ParticleSimulation.genruntimeconfig.cache
+D:\University\Semester_4\SoftwareDD2\ParticleSimulation\ParticleSimulation\obj\Debug\net6.0\ref\ParticleSimulation.dll
