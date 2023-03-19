@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParticleSimulation
 {
-    internal class Box
+    internal class Box : IVisualizable
     {
         public int Width { get; private set; }
         public int Height { get; private set; }

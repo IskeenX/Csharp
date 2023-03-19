@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace ParticleSimulation
 {
-    internal class Particle
+    internal class Particle : AbstractParticle, IVisualizable
     {
-        static Random rnd = new Random();
+        static protected Random rnd = new Random();
 
-        public int positionX { get; set; }
-        public int positionY { get; set; }
-        public double velocityX { get; set; }
-        public double velocityY { get; set; }
+        public double velocityX { get; protected set; }
+        public double velocityY { get; protected set; }
         public ConsoleColor Color { get; set; }
 
         public Particle(int posX, int posY, double velX, double velY, ConsoleColor color)
@@ -27,11 +25,11 @@ namespace ParticleSimulation
 
         public Particle(int posX, int posY, ConsoleColor color) : this(posX, posY, 0, 0, color)
         {
-            this.velocityX = rnd.Next(-4, 4);
-            this.velocityY = rnd.Next(-4, 4);
+            this.velocityX = rnd.Next(-3, 3);
+            this.velocityY = rnd.Next(-3, 3);
         } //if velocity is zero
 
-        public void Update(int dt, Box domain) //positioning of particles
+        public override void Update(int dt, Box domain) //positioning of particles
         {
             int targetX = this.positionX + (int)Math.Round(dt * velocityX);
             int targetY = this.positionY + (int)Math.Round(dt * velocityY);
@@ -49,7 +47,7 @@ namespace ParticleSimulation
             Console.CursorVisible = false;
             Console.SetCursorPosition(positionX, positionY);
             Console.ForegroundColor = Color;
-            Console.Write('o');
+            Console.Write('O');
         }
     }
 }
