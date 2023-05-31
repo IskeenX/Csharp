@@ -1,7 +1,0 @@
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\bin\Debug\SwDD2_MT1_FeedbackProcessor.exe.config
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\bin\Debug\SwDD2_MT1_FeedbackProcessor.exe
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\bin\Debug\SwDD2_MT1_FeedbackProcessor.pdb
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\obj\Debug\SwDD2_MT1_FeedbackProcessor.csprojAssemblyReference.cache
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\obj\Debug\SwDD2_MT1_FeedbackProcessor.csproj.CoreCompileInputs.cache
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\obj\Debug\SwDD2_MT1_FeedbackProcessor.exe
-C:\Users\kissd\source\repos\SwDD2_MT1_FeedbackProcessor\SwDD2_MT1_FeedbackProcessor\obj\Debug\SwDD2_MT1_FeedbackProcessor.pdb
