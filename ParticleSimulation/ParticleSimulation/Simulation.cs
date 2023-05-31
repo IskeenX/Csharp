@@ -13,7 +13,7 @@ namespace ParticleSimulation
         AbstractParticle[] particles;
         IVisualizable[] visualizables;
 
-        public Simulation(Box domain)
+        public Simulation(Box domain) //?
         {
             this.domain = domain;
         }   

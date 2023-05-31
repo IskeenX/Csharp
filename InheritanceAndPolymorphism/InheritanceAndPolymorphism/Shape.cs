@@ -27,7 +27,7 @@ namespace InheritanceAndPolymorphism
         {
             sideA = a;
         }
-        public Shape() { }
+        public Shape() { }    //?
 
         public abstract float Area();
         public abstract float Perimeter();
