@@ -1,0 +1,15 @@
+C:\Users\hallgato\Desktop\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\hallgato\Desktop\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\hallgato\Desktop\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\hallgato\Desktop\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\hallgato\Desktop\OOP\OOP\obj\Debug\OOP.pdb
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\bin\Debug\OOP.exe.config
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\bin\Debug\OOP.exe
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\bin\Debug\OOP.pdb
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\obj\Debug\OOP.exe
+D:\University\Semester_1\SoftwareDD1\OOP\OOP\obj\Debug\OOP.pdb

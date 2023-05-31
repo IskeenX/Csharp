@@ -1,0 +1,15 @@
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\net6.0\AbstractionAndInterfaces.exe
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\net6.0\AbstractionAndInterfaces.deps.json
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\net6.0\AbstractionAndInterfaces.runtimeconfig.json
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\net6.0\AbstractionAndInterfaces.dll
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\net6.0\AbstractionAndInterfaces.pdb
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.csproj.AssemblyReference.cache
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.AssemblyInfoInputs.cache
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.AssemblyInfo.cs
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.csproj.CoreCompileInputs.cache
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.dll
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\refint\AbstractionAndInterfaces.dll
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.pdb
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\AbstractionAndInterfaces.genruntimeconfig.cache
+D:\University\Semester_4\SoftwareDD2\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\net6.0\ref\AbstractionAndInterfaces.dll
