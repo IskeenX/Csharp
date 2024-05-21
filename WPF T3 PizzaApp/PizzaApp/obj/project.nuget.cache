@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHntfR8w9rKvCxqs3buHNNH0y2obMrD8wyjyW/2OWILNFCysgSmqHRU6rfq329/E04Ze1TXq+bw9L4xI92CIpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\degen\\Downloads\\WPF T4 PizzaApp\\PizzaApp\\PizzaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\degen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\degen\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\degen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\degen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

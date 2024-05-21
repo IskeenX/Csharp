@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|d:\\helyi munka\\programok\\\u00F3e nik\\stgui\\l04\\pizzaapp\\pizzaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|d:\\helyi munka\\programok\\\u00F3e nik\\stgui\\l04\\pizzaapp\\pizzaapp\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|d:\\helyi munka\\programok\\\u00F3e nik\\stgui\\l04\\pizzaapp\\pizzaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|d:\\helyi munka\\programok\\\u00F3e nik\\stgui\\l04\\pizzaapp\\pizzaapp\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|d:\\helyi munka\\programok\\\u00F3e nik\\stgui\\l04\\pizzaapp\\pizzaapp\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F34AC4-23E8-4A0D-9420-488B1A7E22B9}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ordering.cs",
+              "DocumentMoniker": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Ordering.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Ordering.cs",
+              "ToolTip": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Ordering.cs",
+              "RelativeToolTip": "PizzaApp\\Ordering.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T00:02:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizzas.cs",
+              "DocumentMoniker": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Pizzas.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Pizzas.cs",
+              "ToolTip": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Pizzas.cs",
+              "RelativeToolTip": "PizzaApp\\Pizzas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T23:52:45.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Converter.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Converter.cs",
+              "ToolTip": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\Converter.cs",
+              "RelativeToolTip": "PizzaApp\\Converter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:32:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PizzaApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\MainWindow.xaml",
+              "RelativeToolTip": "PizzaApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T21:45:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Helyi munka\\Programok\\\u00D3E NIK\\STGUI\\L04\\PizzaApp\\PizzaApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PizzaApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:45:07.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
