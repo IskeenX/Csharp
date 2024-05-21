@@ -1,0 +1,6 @@
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\Flappy_Bird.csproj.AssemblyReference.cache
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\App.g.cs
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\Flappy_Bird_Content.g.cs
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\Flappy_Bird_MarkupCompile.cache
+C:\Projects\Flappy_Bird\Flappy_Bird\obj\Debug\net7.0-windows\Flappy_Bird_MarkupCompile.lref
